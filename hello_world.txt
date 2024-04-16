@@ -1,0 +1,6 @@
+Hello World!
+cybernetics:
+the science of communication and control theory
+that is concerned especially with the comparative study
+of automatic control systems
+(such as the nervous system and brain and mechanical-electrical communication systems)
